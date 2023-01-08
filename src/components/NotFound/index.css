@@ -1,0 +1,23 @@
+.error-con {
+  width: 70vw;
+  height: 70vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.error-text {
+  color: black;
+  font-size: 20px;
+  margin-bottom: 70px;
+  margin-top: -25px;
+}
+.error-head {
+  color: maroon;
+  font-size: 50px;
+}
+.error-img {
+  width: 400px;
+  height: 400px;
+}

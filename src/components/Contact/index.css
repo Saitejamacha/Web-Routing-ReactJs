@@ -1,0 +1,18 @@
+.contact-con {
+  width: 80vw;
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* background-color: aqua; */
+}
+.con-img {
+  width: 200px;
+  height: 200px;
+}
+
+.con-head {
+  color: maroon;
+  font-size: 50px;
+}
